@@ -10,6 +10,11 @@ Overview of Requirements.
 
 
 ## Functional Requirements:
+- User Account
+- Data Sharing
+- Media Organization 
+- User Organization 
+- Search
 
 
 ### FrontEnd
