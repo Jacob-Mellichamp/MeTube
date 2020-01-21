@@ -10,19 +10,28 @@ Overview of Requirements.
 
 
 ## Functional Requirements:
-- User Account
-  - User Registration
-- Data Sharing
-- Media Organization 
-- User Organization 
-- Search
+
 
 
 ### FrontEnd
 
 
 ### BackEnd
-
+- User Account
+  - User Registration
+  -
+- Data Sharing
+  - Upload mutimedia files
+  - Web interface for Meta data of uploaded files such as title, description, keywords, category, etc.
+  - Download: 
+  - View media files: 
+- Media Organization 
+  - Browse by category
+  - Channel 
+  - Playlists
+  - Favorite Lists
+- User Organization 
+- Search
 
 ## NonFunctional Requirements:
 - Must run on Linux. 
