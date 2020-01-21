@@ -19,7 +19,6 @@ Overview of Requirements.
 ### BackEnd
 - User Account
   - User Registration
-  -
 - Data Sharing
   - Upload mutimedia files
   - Web interface for Meta data of uploaded files such as title, description, keywords, category, etc.
@@ -30,7 +29,9 @@ Overview of Requirements.
   - Channel 
   - Playlists
   - Favorite Lists
-- User Organization 
+- User Organization
+  - Messaging Exchange between user
+  - Commenting on media file
 - Search
 
 ## NonFunctional Requirements:
