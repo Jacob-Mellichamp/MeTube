@@ -15,10 +15,11 @@
 - **Channel**
 - **Subscriptions**
 - *Ratings*
-
+- Notificiations
 
 ## Webpages that need to be implemented.
 
  - Login Page
  - Home Page
  - Channel 
+ - Change Settings Page
