@@ -33,6 +33,7 @@ Overview of Requirements.
   - Messaging Exchange between user
   - Commenting on media file
 - Search
+  - Keywords-based search
 
 ## NonFunctional Requirements:
 - Must run on Linux. 
