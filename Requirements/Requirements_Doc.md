@@ -11,6 +11,7 @@ Overview of Requirements.
 
 ## Functional Requirements:
 - User Account
+  - User Registration
 - Data Sharing
 - Media Organization 
 - User Organization 
