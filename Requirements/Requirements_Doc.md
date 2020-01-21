@@ -14,6 +14,10 @@ Overview of Requirements.
 
 
 ### FrontEnd
+- Login Page
+- Home Page
+- Channel Page
+- Individual Video Page
 
 
 ### BackEnd
