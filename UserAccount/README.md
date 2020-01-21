@@ -15,3 +15,10 @@
 - **Channel**
 - **Subscriptions**
 - *Ratings*
+
+
+## Webpages that need to be implemented.
+
+ - Login Page
+ - Home Page
+ - Channel 
