@@ -1,3 +1,3 @@
-| Primary Key  | Username | Password  | List of Videos | Favorites  | Last Watched | First Header |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------ |
-| Num  | String | password_type  | ?????  | ???? ?|  ????  |
+| Primary Key  | Username | Password  | Channel | Favorites  | Last Watched | ??? |
+| ------------- | ------------- | ------------- | ---------- | ------------- | ------------- | ------------ |
+| Num  | String | password_type  | Page.html  | Playlist Container |  Playlist Container |
