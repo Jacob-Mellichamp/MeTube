@@ -21,5 +21,18 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [ ] Create LoginPage concept design.
 * [ ] Create ChannelPage concept design.
 * [ ] Create PlayList concept design.
+* [ ] Risk Diagram. 
+### Phase 2
+* [ ] ER Diagram.
+* [ ] set up PHPmyAdmin.
+* [ ] set up Apache.
+### Phase 3
+* [ ] implement User, Playlist, Video, Comment, tables in PHPmyAdim
+* [ ] Create CSS file for styles 
+* [ ] Create HomePage.html.
+* [ ] Create LoginPage.html.
+* [ ] Create ChannelPage.html.
+* [ ] Create PlayList concept.html.
+
 
 
