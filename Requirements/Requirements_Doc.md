@@ -9,16 +9,23 @@ Overview of Requirements.
 - PHP
 
 
-## Functional Requirements:
+## Technical Requirements:
 
 
 
-### FrontEnd
+### HTML Pages
 - Login Page
 - Home Page
 - Channel Page
 - Individual Video Page
+- Playlist Page
 
+### Tables
+- User Table
+- Video Table
+- Playlist Table
+- Comment Table
+- Subscription Table
 
 ### BackEnd
 - User Account
