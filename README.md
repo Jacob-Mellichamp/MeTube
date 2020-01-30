@@ -17,5 +17,9 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [ ] Create Video Table Outline
 * [ ] Create Playlist Table Outline
 * [ ] Create Comment Table Outline
+* [ ] Create HomePage concept design.
+* [ ] Create LoginPage concept design.
+* [ ] Create ChannelPage concept design.
+* [ ] Create PlayList concept design.
 
 
