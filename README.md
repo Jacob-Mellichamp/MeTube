@@ -23,9 +23,11 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [ ] Create PlayList concept design.
 * [ ] Risk Diagram. 
 ### Phase 2
+* [ ] MeTube Messaging system Design
 * [ ] ER Diagram.
 * [ ] set up PHPmyAdmin.
 * [ ] set up Apache.
+
 ### Phase 3
 * [ ] implement User, Playlist, Video, Comment, tables in PHPmyAdim
 * [ ] Create CSS file for styles 
@@ -33,6 +35,6 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [ ] Create LoginPage.html.
 * [ ] Create ChannelPage.html.
 * [ ] Create PlayList concept.html.
-
+* [ ] MeTube Messaging Implementation
 
 
