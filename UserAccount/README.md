@@ -4,17 +4,18 @@
 ## Initial Data Needed:
 - Username
 - Password
+- Channel URL
+- Favorites 
+- Contact List
+- Created Videos
+- Subscriptions
 
 ## Data Associated with User:
-- **Created Videos**
-- **Contact List**
 - **Comments**
 - Recent Viewed Videos
 - Suggestions
 - **Favorites**
-- **Channel**
-- **Subscriptions**
-- *Ratings*
+- *Ratings/ Likes*
 - Notificiations
 
 ## Webpages that need to be implemented.
