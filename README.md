@@ -9,11 +9,11 @@ This is the project progress Log. Below contains the Task that need to complete 
 
 ### Phase 1
 * [x] Gather Requirements and understand the concept of what MeTube is. 
-  - **(Group Completetion)**
+  - **(Group Completetion)  1/21/2020**
 * [x] Come up with questions to further narrow/clarify the scope of the project. 
-  - **(Group Completetion)** 
+  - **(Group Completetion)  1/21/2020** 
 * [x] Create User Table Outline .  
-  - **(Jake Completetion)**
+  - **(Jake Completetion)   1/29/2020** 
 * [ ] Create Video Table Outline
 * [ ] Create Playlist Table Outline
 * [ ] Create Comment Table Outline
