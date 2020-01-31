@@ -28,7 +28,8 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [ ] Create PlayList concept design.
 * [ ] Risk Diagram. 
 ### Phase 2
-* [ ] MeTube Messaging system Design
+* [x] MeTube Messaging system Design
+  - **(Jake/Luke Completetion)   1/29/2020**
 * [ ] ER Diagram.
 * [ ] set up PHPmyAdmin.
 * [ ] set up Apache.
