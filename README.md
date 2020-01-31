@@ -14,9 +14,11 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Group Completetion)  1/21/2020** 
 * [x] Create User Table Outline .  
   - **(Jake Completetion)   1/29/2020** 
-* [ ] Create Video Table Outline
-* [ ] Create Playlist Table Outline
-* [ ] Create Comment Table Outline
+* [x] Create Video Table Outline
+  - **(Luke Completetion)   1/31/2020** 
+* [x] Create Playlist Table Outline
+  - **(Luke Completetion)   1/31/2020** 
+* [x] Create Comment Table Outline
 * [ ] Create HomePage concept design.
 * [ ] Create LoginPage concept design.
 * [ ] Create ChannelPage concept design.
