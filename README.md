@@ -22,7 +22,8 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Luke Completetion)   1/31/2020** 
 * [x] Create User Table Outline .  
   - **(Jake Completetion)   1/29/2020** 
-* [ ] Create HomePage concept design.
+* [x] Create HomePage concept design.
+  - **(Yates Completetion) 2/2/2020**
 * [x] Create LoginPage concept design.
   - **(Yates Completetion) 2/1/2020**
 * [ ] Create ChannelPage concept design.
