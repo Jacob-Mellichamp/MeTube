@@ -24,7 +24,7 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Jake Completetion)   1/29/2020** 
 * [ ] Create HomePage concept design.
 * [x] Create LoginPage concept design.
-  - **(Yates Completetion) 2/1/2020
+  - **(Yates Completetion) 2/1/2020**
 * [ ] Create ChannelPage concept design.
 * [ ] Create PlayList concept design.
 * [ ] Risk Diagram. 
