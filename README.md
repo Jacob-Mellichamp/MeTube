@@ -34,7 +34,9 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Jake/Luke Completetion)   1/29/2020**
 * [ ] ER Diagram.
 * [ ] set up PHPmyAdmin.
-* [ ] set up Apache.
+* [x] set up Apache.
+  - **(Jake Completetion)   2/10/2020**
+
 
 ### Phase 3
 * [ ] implement User, Playlist, Video, Comment, tables in PHPmyAdim
