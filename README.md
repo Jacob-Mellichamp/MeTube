@@ -26,7 +26,8 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Yates Completetion) 2/2/2020**
 * [x] Create LoginPage concept design.
   - **(Yates Completetion) 2/1/2020**
-* [ ] Create ChannelPage concept design.
+* [x] Create ChannelPage concept design.
+  - **(Yates Completetion) 2/12/2020**
 * [ ] Create PlayList concept design.
 * [ ] Risk Diagram. 
 ### Phase 2
