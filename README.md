@@ -29,12 +29,14 @@ This is the project progress Log. Below contains the Task that need to complete 
 * [x] Create ChannelPage concept design.
   - **(Yates Completetion) 2/12/2020**
 * [ ] Create PlayList concept design.
-* [ ] Risk Diagram. 
 ### Phase 2
 * [x] MeTube Messaging system Design
   - **(Jake/Luke Completetion)   1/29/2020**
-* [ ] ER Diagram.
+* [x] ER Diagram / Table Schema .
+  - **(Jake Completetion)   2/10/2020**
+  - **Still needs playlist concept (how could we make a playlist?)**
 * [ ] set up PHPmyAdmin.
+* [ ] Create new Repository for HTML code
 * [x] set up Apache.
   - **(Jake Completetion)   2/10/2020**
 
