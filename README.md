@@ -35,7 +35,7 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Jake/Luke Completetion)   1/29/2020**
 * [x] ER Diagram / Table Schema .
   - **(Jake Completetion)   2/12/2020**
-  - **Still needs playlist concept (how could we make a playlist?)**
+  - **(Yates Edit) 3/25/2020**
 * [x] set up PHPmyAdmin.
  - **(Jake Completetion)   2/17/2020**
 * [ ] Create new Repository for HTML code
