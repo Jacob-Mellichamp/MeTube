@@ -37,14 +37,14 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Jake Completetion)   2/12/2020**
   - **(Yates Edit) 3/25/2020**
 * [x] set up PHPmyAdmin.
- - **(Jake Completetion)   2/17/2020**
+  - **(Jake Completetion)   2/17/2020**
 * [ ] Create new Repository for HTML code
 * [x] set up Apache.
   - **(Jake Completetion)   2/10/2020**
 
 
 ### Phase 3
-* [ ] implement User, Playlist, Video, Comment, tables in PHPmyAdim
+* [ ] Implement User, Playlist, Video, Comment Tables in PHPmyAdim
 * [ ] Create CSS file for styles 
 * [ ] Create HomePage.html.
 * [ ] Create LoginPage.html.
