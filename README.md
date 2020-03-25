@@ -28,7 +28,8 @@ This is the project progress Log. Below contains the Task that need to complete 
   - **(Yates Completetion) 2/1/2020**
 * [x] Create ChannelPage concept design.
   - **(Yates Completetion) 2/12/2020**
-* [ ] Create PlayList concept design.
+* [X] Create PlayList concept design.
+  - **(Yates Completetion) 3/25/2020**
 ### Phase 2
 * [x] MeTube Messaging system Design
   - **(Jake/Luke Completetion)   1/29/2020**
