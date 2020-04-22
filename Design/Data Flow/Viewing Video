@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T17:47:40.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="13.0.1" etag="rdwtivWkgKKDTyb6QRkD" type="github"><diagram id="tJjhnE1wLh2FXrUm7q44">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-22T18:07:04.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="0x7BUcz877cmyQ-D5F_I" version="13.0.1" type="github">
+  <diagram id="tJjhnE1wLh2FXrUm7q44" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Viewing Video&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-2" target="ixoUoxe0_qOEZ8PIYU82-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-2" value="User Clicks on a video" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="80" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-3" target="ixoUoxe0_qOEZ8PIYU82-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-3" value="User is redirected to ViewVideo.php with a GET variable set to the VIDEO_ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-5" target="ixoUoxe0_qOEZ8PIYU82-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="623" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-10" value="Not set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#000000;" vertex="1" connectable="0" parent="ixoUoxe0_qOEZ8PIYU82-9">
+          <mxGeometry x="-0.1134" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-5" target="ixoUoxe0_qOEZ8PIYU82-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-18" value="Is Set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#000000;" vertex="1" connectable="0" parent="ixoUoxe0_qOEZ8PIYU82-12">
+          <mxGeometry x="0.0123" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-5" value="Check If GET variable is set" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="308" y="280" width="235" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-7" value="&quot;ERROR: oof no video&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-13" target="ixoUoxe0_qOEZ8PIYU82-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-13" value="Connect To DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="345" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-14" target="ixoUoxe0_qOEZ8PIYU82-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-14" target="ixoUoxe0_qOEZ8PIYU82-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-14" value="Query Video Table for Metube" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-19" target="ixoUoxe0_qOEZ8PIYU82-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-19" value="Display Video with Video Tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-21" target="ixoUoxe0_qOEZ8PIYU82-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-21" value="Display Title, Date, ViewCount, Description from SQL query.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="690" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="ixoUoxe0_qOEZ8PIYU82-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-23" value="Update the viewCount&lt;br&gt;$views++" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SELECT * FROM Video WHERE VIDEO_ID=&#39;$_GET[VIDEO_ID]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="585" y="500" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixoUoxe0_qOEZ8PIYU82-27" value="&lt;span style=&quot;font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;UPDATE Video SET VIEWS=$views WHERE VIDEO_ID=&#39;$_GET[VIDEO_ID]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="585" y="800" width="225" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
