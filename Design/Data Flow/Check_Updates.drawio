@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T20:49:35.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="whk_E_m5TQ_kmQTqMm36" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T20:52:55.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="-ZA_Gp07XiQ62VI-P0Xd" version="13.0.1" type="github">
   <diagram id="7iB0_tMo-tiH9Vbazfqp" name="Page-1">
     <mxGraphModel dx="566" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-8" value="User Clicks &#39;Uploads&#39; Button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-8" value="User Clicks &#39;Playlists&#39; Button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xEx0JI6-JLEh29n-Wk1Z-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xEx0JI6-JLEh29n-Wk1Z-8" target="xEx0JI6-JLEh29n-Wk1Z-10">
@@ -70,7 +70,7 @@
             <mxPoint x="430" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-18" value="Query DB to Retrieve Video&lt;br&gt;Information Associated with User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-18" value="Query DB to Retrieve Playlist&lt;br&gt;Information Associated with User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="310" y="790" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xEx0JI6-JLEh29n-Wk1Z-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xEx0JI6-JLEh29n-Wk1Z-18">
@@ -79,7 +79,7 @@
             <mxPoint x="430" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-20" value="&lt;span style=&quot;font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;$video_query = &quot;SELECT * FROM Video WHERE USER_ID=&#39;$user_id&#39; ORDER BY DATE&quot;;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-20" value="&lt;span style=&quot;font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;$playlist_query = &quot;&lt;/span&gt;&lt;span style=&quot;font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;SELECT * FROM Playlist WHERE USER_ID=$user_id&lt;/span&gt;&lt;span style=&quot;font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;&quot;;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="310" y="910" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xEx0JI6-JLEh29n-Wk1Z-23" value="php/channel_script.php" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
             <mxPoint x="430" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-30" value="Display User&#39;s Videos&lt;br&gt;with Information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xEx0JI6-JLEh29n-Wk1Z-30" value="Display User&#39;s Playlists&lt;br&gt;with Information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="1030" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
